@@ -1,0 +1,47 @@
+h1 {
+    color: #332979;
+    text-align :center;
+    background-color: aquamarine;
+    border-top-left-radius: 1px;
+    font-family: Kavivanar;
+    }
+
+#guess{
+    color: blue;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+    background-color: bisque;
+}
+h4 {
+    color: blue;
+    margin-left: 40px;
+    margin-top: 50px;
+    
+}
+.width-small {
+    width:100px;
+    
+}
+ #win {
+    color: blue;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 50px; 
+    background-color: bisque;  
+}
+#loss {
+    color: blue;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 50px; 
+    background-color: bisque; 
+}
+.photo {
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 10px;
+}
+.game-values{
+    padding-left: 10px;
+}
